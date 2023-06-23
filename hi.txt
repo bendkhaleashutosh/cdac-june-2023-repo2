@@ -1,4 +1,4 @@
-hii all, we are learning git
+hii all
 done some changes
 Ashu
 Ashutosh
